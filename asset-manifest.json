@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dar-pizza-build/static/css/main.95f356a3.css",
-    "main.js": "/dar-pizza-build/static/js/main.81a4af03.js",
+    "main.js": "/dar-pizza-build/static/js/main.b81b58e8.js",
     "static/media/Donut.png": "/dar-pizza-build/static/media/Donut.a7b49253095050a15ac9.png",
     "static/media/Taco.png": "/dar-pizza-build/static/media/Taco.11c7bf981978f09207ce.png",
     "static/media/Hotdog.png": "/dar-pizza-build/static/media/Hotdog.74e929324202de4d6b1a.png",
@@ -15,10 +15,10 @@
     "static/media/Cake.png": "/dar-pizza-build/static/media/Cake.f6eb4e910071f6bf837a.png",
     "index.html": "/dar-pizza-build/index.html",
     "main.95f356a3.css.map": "/dar-pizza-build/static/css/main.95f356a3.css.map",
-    "main.81a4af03.js.map": "/dar-pizza-build/static/js/main.81a4af03.js.map"
+    "main.b81b58e8.js.map": "/dar-pizza-build/static/js/main.b81b58e8.js.map"
   },
   "entrypoints": [
     "static/css/main.95f356a3.css",
-    "static/js/main.81a4af03.js"
+    "static/js/main.b81b58e8.js"
   ]
 }
